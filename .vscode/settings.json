@@ -1,0 +1,6 @@
+{
+  "rust.unstable_features": true,
+  "rust.build_command": "cargo xcheck",
+  "rust-client.channel": "nightly",
+  "rust-client.enableMultiProjectSetup": true,
+}
